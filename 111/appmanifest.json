@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Baby Farmer",
-	"short_name": "Baby Farmer",
+	"name": "babyfarmers",
+	"short_name": "babyfarmers",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
